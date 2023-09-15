@@ -1,0 +1,36 @@
+section.pizaa {
+  border: none;
+  padding-top: 140px;
+}
+
+section.pizaa .container {
+  display: flex !important;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+.col-3 {
+  border-radius: 12px;
+  border: 1px solid gray !important;
+  background: var(--White, #FFF) !important;
+  margin-bottom: 30px !important;
+}
+
+button {
+  border-radius: 6px;
+  background: var(--Primary, #FF7010);
+  border: none;
+  color: var(--White, #FFF);
+  text-align: center;
+
+  /* Desktop/Normal */
+  padding: 13px 32px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  margin-right: 51px;
+  /* 137.5% */
+}

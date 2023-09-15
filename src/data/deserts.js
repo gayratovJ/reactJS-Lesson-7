@@ -1,0 +1,78 @@
+export const desert = [ 
+  {
+    id: "desert-1",
+    category: "Десерты",
+    image: "/public/products/deserts/desert-img-1.png",
+    name: "Филадельфия кранч",
+    description:
+      "Семга, рис, сыр креметто, соус унаги, креветка, авокадо, чип...",
+    filter: "NEW",
+    price: 475,
+  },
+  {
+    id: "desert-2",
+    category: "Десерты",
+    image: "/public/products/deserts/desert-img-2.png",
+    name: "Филадельфия крем-брюле",
+    description:
+      "Сливочный сыр, семга татаки с тростниковым сахаром, соус у...",
+    filter: "ХИТ",
+    price: 395,
+  },
+  {
+    id: "desert-3",
+    category: "Десерты",
+    image: "/public/products/deserts/desert-img-3.png",
+    name: "Супер Филадельфия",
+    description: "Действительно много семги, сливочный сыр, огурец, рис, н...",
+    filter: "",
+    price: 425,
+  },
+  {
+    id: "desert-4",
+    category: "Десерты",
+    image: "/public/products/deserts/desert-img-4.png",
+    name: "Тигр мама",
+    description: "Тигровая креветка, огурец, авокадо, соус Айоли, рис, ик...",
+    filter: "",
+    price: 525,
+  },
+  {
+    id: "desert-5",
+    category: "Десерты",
+    image: "/public/products/deserts/desert-img-5.png",
+    name: "Тигр мама",
+    description: "Тигровая креветка, огурец, авокадо, соус Айоли, рис, ик...",
+    filter: "",
+    price: 525,
+  },
+  {
+    id: "desert-6",
+    category: "Десерты",
+    image: "/public/products/deserts/desert-img-6.png",
+    name: "Филадельфия крем-брюле",
+    description:
+      "Сливочный сыр, семга татаки с тростниковым сахаром, соус у...",
+    filter: "",
+    price: 395,
+  },
+  {
+    id: "desert-7",
+    category: "Десерты",
+    image: "/public/products/deserts/desert-img-7.png",
+    name: "Филадельфия кранч",
+    description:
+      "Семга, рис, сыр креметто, соус унаги, креветка, авокадо, чип...",
+    filter: "",
+    price: 475,
+  },
+  {
+    id: "desert-8",
+    category: "Десерты",
+    image: "/public/products/deserts/desert-img-8.png",
+    name: "Супер Филадельфия",
+    description: "Действительно много семги, сливочный сыр, огурец, рис, н...",
+    filter: "",
+    price: 425,
+  },
+]

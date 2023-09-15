@@ -1,0 +1,76 @@
+header {
+  border: 1px solid var(--Line-gray, #F0F0F0);
+  background-color: white;
+  padding: 16px 0px;
+  position: fixed;
+  width: 100%;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-counter {
+  padding: 8px 16px;
+  border-radius: 4px;
+  background: var(--Primary, #FF7010);
+}
+
+.card-counter i.fa {
+  color: white;
+  padding-right: 8px;
+}
+
+.card-counter span {
+  color: white;
+}
+
+.end {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+select {
+  border-radius: 4px;
+  border: 1px solid #FF7010;
+  background: var(--Primary, #FF7010);
+  padding: 8px 16px;
+}
+
+option {
+  color: white;
+}
+
+* {
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*:after,
+*::before {
+  box-sizing: border-box;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+section.pizaa .container {
+  display: flex !important;
+  flex-wrap: wrap;
+}
+
+section.pizaa {
+  padding-top: 140px;
+  margin-bottom: 120px;
+}
+
+.col-3 {
+  margin-bottom: 40px !important;
+}

@@ -1,0 +1,20 @@
+main {
+  padding-top: 120px;
+}
+
+li {
+  display: grid;
+  border-radius: 12px;
+  border: 1px solid var(--Line-gray, #F0F0F0);
+  background: var(--White, #FFF);
+  padding: 20px 39px;
+  max-width: 135px;
+}
+
+li p {
+  text-align: center;
+}
+
+li img {
+  margin: auto;
+}
